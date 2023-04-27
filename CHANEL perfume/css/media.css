@@ -1,0 +1,11 @@
+/* ⥥ screen resolution: 375px */
+@media (max-width: 600px) {
+ .wrapper {
+  padding: 30px 10px;
+  height: 100%;
+ }
+ 
+  .article {
+    flex-direction: column;
+  }
+}
