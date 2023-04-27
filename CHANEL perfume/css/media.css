@@ -1,10 +1,9 @@
 /* ⥥ screen resolution: 375px */
 @media (max-width: 600px) {
- .wrapper {
-  padding: 30px 10px;
-  height: 100%;
- }
- 
+  .main {
+    padding: 0 20px;
+  }
+
   .article {
     flex-direction: column;
   }
